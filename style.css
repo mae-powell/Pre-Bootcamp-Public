@@ -1,0 +1,52 @@
+*{margin-right: 30px;
+    margin-left: 30px;
+    font-family: 'Quantico', sans-serif;
+
+}
+.top{
+    background-color: rgb(113, 223, 3);
+    color: rgb(2, 168, 154);
+    text-align: center;
+    height: 130pt;
+    vertical-align: bottom;
+}
+h1{
+    text-align: center;
+    align-content: center;
+    font-size: 30pt;
+    font-weight: 1200;
+    text-shadow: 20%;
+}
+.gifs{
+    display: flex;
+    padding: 5pt;
+    margin: 0 auto;
+}
+.tenor-gif-embed {
+    margin: 20p;
+    align-items: center;
+}
+.page{
+    background-color: rgb(33, 73, 33);
+    color: lightblue;
+    border-style: double;
+    border: 20pt rgb(126, 8, 116);
+    border-radius: 15%;
+    font-size: 18pt;
+    text-align: center;
+}
+h3, h4{
+    text-align: center;
+    text-shadow: 10pt;
+    color: rgb(202, 111, 230);
+}
+.fortune{
+    color: aliceblue;
+    background-color: rgb(3, 54, 23);
+    height: 50pt;
+    width: 150pt;
+    font-size: medium;
+    align-self: center;
+    border: 10pt blue;
+    border-radius: 25%;
+}
